@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recipe-app/static/css/main.31d6cfe0.css",
-    "main.js": "/recipe-app/static/js/main.55bbe374.js",
+    "main.js": "/recipe-app/static/js/main.8a6d1adb.js",
     "static/media/lasagna.jpg": "/recipe-app/static/media/lasagna.88bf373c16320c8b3a85.jpg",
     "static/media/italianChickenSoup.jpg": "/recipe-app/static/media/italianChickenSoup.154abaaaab7c9893aecc.jpg",
     "static/media/pastawithpeas.jpg": "/recipe-app/static/media/pastawithpeas.ada89e1c0064583d24f6.jpg",
     "index.html": "/recipe-app/index.html",
-    "main.55bbe374.js.map": "/recipe-app/static/js/main.55bbe374.js.map"
+    "main.8a6d1adb.js.map": "/recipe-app/static/js/main.8a6d1adb.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.55bbe374.js"
+    "static/js/main.8a6d1adb.js"
   ]
 }
