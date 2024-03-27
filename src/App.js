@@ -8,15 +8,13 @@ import { PastaWithPeas } from "./pages/PastaWithPeas";
 function App() {
   return (
     <div className="App">
-      <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/lasagna" element={<Lasagna />} />
-          <Route path="/italianChickenSoup" element={<ItalianChickenSoup />} />
-          <Route path="/pastaWithPeas" element={<PastaWithPeas />} />
-          <Route path="*" element={<h1>404 PAGE NOT FOUND</h1>} />
-        </Routes>
-      </Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/lasagna" element={<Lasagna />} />
+        <Route path="/italianChickenSoup" element={<ItalianChickenSoup />} />
+        <Route path="/pastaWithPeas" element={<PastaWithPeas />} />
+        <Route path="*" element={<h1>404 PAGE NOT FOUND</h1>} />
+      </Routes>
     </div>
   );
 }
