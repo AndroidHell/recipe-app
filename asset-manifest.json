@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.b1076449.js",
+    "main.js": "/static/js/main.a258de6a.js",
     "static/media/lasagna.jpg": "/static/media/lasagna.88bf373c16320c8b3a85.jpg",
     "static/media/italianChickenSoup.jpg": "/static/media/italianChickenSoup.154abaaaab7c9893aecc.jpg",
     "static/media/pastawithpeas.jpg": "/static/media/pastawithpeas.ada89e1c0064583d24f6.jpg",
     "index.html": "/index.html",
-    "main.b1076449.js.map": "/static/js/main.b1076449.js.map"
+    "main.a258de6a.js.map": "/static/js/main.a258de6a.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.b1076449.js"
+    "static/js/main.a258de6a.js"
   ]
 }
